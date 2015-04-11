@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Stocks", "Portfolio.Stocks\Portfolio.Stocks.csproj", "{45EA2CE8-281B-4FB2-A6C7-84CE05D5F3EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.MyPortfolio", "Portfolio.MyPortfolio\Portfolio.MyPortfolio.csproj", "{DF9EABC0-8435-4C93-8FE3-276833C3947B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EA2CE8-281B-4FB2-A6C7-84CE05D5F3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EA2CE8-281B-4FB2-A6C7-84CE05D5F3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EA2CE8-281B-4FB2-A6C7-84CE05D5F3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EA2CE8-281B-4FB2-A6C7-84CE05D5F3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9EABC0-8435-4C93-8FE3-276833C3947B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9EABC0-8435-4C93-8FE3-276833C3947B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9EABC0-8435-4C93-8FE3-276833C3947B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9EABC0-8435-4C93-8FE3-276833C3947B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
