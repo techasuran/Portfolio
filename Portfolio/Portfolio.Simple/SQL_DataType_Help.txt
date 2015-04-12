@@ -1,0 +1,9 @@
+﻿
+Usage Of Decimal in T-SQL
+**********************
+
+DECIMAL(18,0) will allow 0 digits after the decimal point.
+
+Use something like DECIMAL(18,4) instead that should do just fine!
+
+That gives you a total of 18 digits, 4 of which after the decimal point (and 14 before the decimal point).
